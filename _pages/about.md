@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-This is Ryan Eusebi's home on the web!
+Hi there, welcome to my website! I'm currently a graduate student pursuing a PhD in Environmental Science and Engineering at Caltech in Tapio Schneider's Research Group. I am currently in my second year.
+
+Prior to Caltech, I got my Bachelor's degree in computer science from Princeton University, where I worked with [Gabe Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi) and [Ching-Yao Lai](https://icyphysics.stanford.edu/bio) on various hurricane and machine learning-related projects. 
+
+
+Bef
 
 A data-driven personal website
 ======
