@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ryan Eusebi"
-excerpt: "About me"
+title: "About me"
+excerpt: "Ryan Eusebi"
 author_profile: true
 redirect_from: 
   - /about/
