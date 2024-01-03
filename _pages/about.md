@@ -13,3 +13,7 @@ Hi there, welcome to my website! I'm currently a graduate student pursuing a PhD
 Prior to Caltech, I got my Bachelor's degree in computer science from Princeton University in 2022, where I worked with [Gabe Vecchi](https://vecchi.princeton.edu/people/gabriel-vecchi) and [Ching-Yao Lai](https://icyphysics.stanford.edu/bio) on various hurricane and machine learning-related projects. 
 
 Generally, I'm interested in anything related to atmospheric science, tropical dynamics, climate modeling, and machine learning. My research so far has focused on mechanisms and statistical prediction of north atlantic hurricane frequency, physics-informed machine learning for hurricane modeling, and machine learning models for atmopsheric turbulence parameterizations. Check out some of my [research](https://ryaneusebi.github.io/research/) to learn more about my specific projects, or check out my list of [publications](https://ryaneusebi.github.io/publications/) for links to some of my papers!
+
+News
+------
+Check out my most recent paper which was just publised in [Communications Earth & Environment](https://www.nature.com/commsenv/), linked [here](https://www.nature.com/articles/s43247-023-01144-2), where I show that Physics-Informed Neural Networks can be used to recontsruct hurricane flow fields from sparse data!
