@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2023
+------
+[Realistic tropical cyclone wind and pressure fields can be reconstructed from sparse data using deep learning](https://www.nature.com/articles/s43247-023-01144-2). 
+Ryan Eusebi, Gabriel A. Vecchi, Ching-Yao Lai & Mingjing Tong. Communications Earth & Environment.
